@@ -1,0 +1,65 @@
+# Day 001 - Introduction to Software Development
+
+## Learning Objectives
+
+* Understand what coding is
+* Understand how software is created
+* Learn the role of Git and GitHub
+* Set up a development environment
+
+## What I Learned
+
+### What is Coding?
+
+Coding is the process of writing instructions that a computer can understand and execute.
+
+### What is Programming?
+
+Programming is the process of solving problems by designing and writing code.
+
+### What is Software?
+
+Software is a collection of programs and instructions that help users perform tasks.
+
+Examples:
+
+* WhatsApp
+* Instagram
+* Chrome
+* Spotify
+
+### How Software is Built
+
+Problem → Plan → Code → Test → Deploy → Maintain
+
+### What is Git?
+
+Git is a version control system that tracks changes in files and code.
+
+Key commands learned:
+
+```bash
+git init
+git status
+git add .
+git commit -m "message"
+git push
+```
+
+### What is GitHub?
+
+GitHub is a cloud platform that hosts Git repositories and allows developers to store, manage, and share code.
+
+## Practical Work Completed
+
+* Installed VS Code
+* Installed Git
+* Installed Python
+* Created a GitHub account
+* Created a GitHub repository
+* Initialized a Git repository
+* Added files to Git tracking
+* Created my first commit
+* Pushed my first commit to GitHub
+
+
