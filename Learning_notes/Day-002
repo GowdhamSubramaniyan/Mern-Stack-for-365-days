@@ -1,0 +1,155 @@
+# Day 002 - VS Code and Terminal Basics
+
+## Learning Objectives
+
+* Understand the VS Code interface
+* Learn basic terminal navigation
+* Practice creating and navigating folders
+
+## VS Code Overview
+
+### Explorer
+
+Used to view and manage files and folders.
+
+### Editor
+
+Used to write and edit code.
+
+### Terminal
+
+Used to execute commands and interact with the computer.
+
+### Extensions
+
+Used to install additional tools and features.
+
+### Source Control
+
+Used to manage Git repositories directly from VS Code.
+
+## Terminal Commands Practiced
+
+### pwd
+
+Displays the current working directory.
+
+### dir
+
+Lists files and folders in the current directory.
+
+### mkdir
+
+Creates a new folder.
+
+Example:
+mkdir day2-practice
+
+### cd
+
+Changes the current directory.
+
+Example:
+cd day2-practice
+
+### cd ..
+
+Moves back to the parent directory.
+
+## Practical Work Completed
+
+* Opened the VS Code terminal
+* Created a folder named day2-practice
+* Navigated into the folder
+* Verified the current location using pwd
+* Returned to the parent directory
+
+## Key Takeaways
+
+* The terminal allows developers to interact with their computer using commands.
+* Navigation commands are essential for software development.
+* VS Code combines coding and terminal functionality in one environment.
+
+## Commands Learned
+
+# Day 002 - VS Code and Terminal Basics
+
+## Learning Objectives
+
+* Understand the VS Code interface
+* Learn basic terminal navigation
+* Practice creating and navigating folders
+
+## VS Code Overview
+
+### Explorer
+
+Used to view and manage files and folders.
+
+### Editor
+
+Used to write and edit code.
+
+### Terminal
+
+Used to execute commands and interact with the computer.
+
+### Extensions
+
+Used to install additional tools and features.
+
+### Source Control
+
+Used to manage Git repositories directly from VS Code.
+
+## Terminal Commands Practiced
+
+### pwd
+
+Displays the current working directory.
+
+### dir
+
+Lists files and folders in the current directory.
+
+### mkdir
+
+Creates a new folder.
+
+Example:
+mkdir day2-practice
+
+### cd
+
+Changes the current directory.
+
+Example:
+cd day2-practice
+
+### cd ..
+
+Moves back to the parent directory.
+
+## Practical Work Completed
+
+* Opened the VS Code terminal
+* Created a folder named day2-practice
+* Navigated into the folder
+* Verified the current location using pwd
+* Returned to the parent directory
+
+## Key Takeaways
+
+* The terminal allows developers to interact with their computer using commands.
+* Navigation commands are essential for software development.
+* VS Code combines coding and terminal functionality in one environment.
+
+## Commands Learned
+
+pwd
+dir
+mkdir
+cd
+cd ..
+
+
