@@ -1,0 +1,79 @@
+# Day 003 - Node.js, npm and My First HTML Page
+
+## Learning Objectives
+
+* Understand what Node.js is
+* Understand what npm is
+* Learn why Node.js is important for MERN development
+* Create my first HTML project structure
+
+## What is Node.js?
+
+Node.js is a JavaScript runtime that allows JavaScript to run outside the browser.
+
+Before Node.js, JavaScript could only run inside web browsers. With Node.js, developers can build servers, APIs, and backend applications using JavaScript.
+
+## What is npm?
+
+npm stands for Node Package Manager.
+
+It is used to install and manage packages and libraries for JavaScript projects.
+
+Examples:
+
+* React
+* Express
+* Mongoose
+
+npm helps developers reuse code instead of building everything from scratch.
+
+## Commands Learned
+
+### Check Node.js Version
+
+```bash
+node -v
+```
+
+### Check npm Version
+
+```bash
+npm -v
+```
+
+## Practical Work Completed
+
+* Installed Node.js
+* Installed npm
+* Verified installation using terminal commands
+* Created a project folder
+* Created an index.html file
+
+## What is index.html?
+
+index.html is usually the main page of a website.
+
+When a browser opens a website, it commonly looks for the index.html file first.
+
+## Basic HTML Structure
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Day 3 Project</title>
+</head>
+<body>
+
+</body>
+</html>
+```
+
+## Key Takeaways
+
+* Node.js allows JavaScript to run outside the browser.
+* npm is used to install and manage packages.
+* index.html is the starting page of most websites.
+* Node.js is an essential part of the MERN stack.
+
+
