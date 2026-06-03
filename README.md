@@ -1,2 +1,51 @@
-# Mern-Stack-for-365-days
-Documenting my 365-day journey from beginner to full-stack MERN developer through daily learning, projects, and consistent GitHub commits.
+# My Coding Journey
+
+A repository documenting my progress through a structured 365-day roadmap to become a Full-Stack MERN Developer.
+
+## Overview
+
+This repository contains learning notes, exercises, and projects completed throughout my software development journey.
+
+The primary focus areas include:
+
+* Git & GitHub
+* HTML & CSS
+* JavaScript
+* React
+* Node.js
+* Express.js
+* MongoDB
+* TypeScript
+* Software Engineering Fundamentals
+
+## Repository Structure
+
+```text
+.
+├── notes/
+├── exercises/
+├── projects/
+├── resources/
+└── README.md
+```
+
+## Objectives
+
+* Develop strong programming fundamentals
+* Build real-world projects
+* Follow consistent development practices
+* Maintain a public record of progress
+* Build a professional software portfolio
+
+## Technologies
+
+* JavaScript
+* React
+* Node.js
+* Express.js
+* MongoDB
+* Git
+* GitHub
+
+
+
