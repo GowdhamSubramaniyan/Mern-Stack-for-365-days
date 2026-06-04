@@ -1,0 +1,49 @@
+# Day 004 - Command Line Navigation and GitHub Repositories
+
+## Learning Objectives
+
+* Learn how to navigate folders using the terminal
+* Understand what a GitHub repository is
+* Practice common navigation commands
+
+## Commands Practiced
+
+### pwd
+
+Displays the current working directory.
+
+### dir
+
+Lists files and folders in the current directory.
+
+### cd
+
+Changes the current directory.
+
+### cd ..
+
+Moves back to the parent directory.
+
+## What is a Repository?
+
+A repository is a place where code, files, and project history are stored.
+
+Repositories help developers:
+
+* Track changes
+* Collaborate with others
+* Store projects online
+
+## Practical Work Completed
+
+* Practiced navigating folders using terminal commands
+* Created an empty GitHub repository
+* Explored repository settings and options
+
+## Key Takeaways
+
+* The terminal allows quick navigation between folders.
+* GitHub repositories store projects and their history.
+* Git is used locally, while GitHub stores repositories online.
+
+
