@@ -1,0 +1,25 @@
+# Day 005
+
+## Learn
+
+- Creating files from terminal
+- Creating folders from terminal
+- Moving between folders
+- Understanding git init
+- Understanding git commit
+
+## Commands
+
+New-Item
+mkdir
+cd
+dir
+git init
+git add .
+git commit -m
+
+## Key Takeaways
+
+Git init creates a .git folder that allows Git to track changes.
+
+A commit is a snapshot of the project at a specific point in time.
