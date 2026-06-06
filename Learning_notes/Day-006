@@ -1,0 +1,37 @@
+# Day 006 - Git and GitHub
+
+## Learning Objectives
+
+* Understand what Git is
+* Understand what version control is
+* Connect a local repository to GitHub
+* Push code to GitHub
+
+## What is Git?
+
+Git is a version control system that tracks changes in files and projects.
+
+## What is Version Control?
+
+Version control allows developers to save project history and return to previous versions when needed.
+
+## Commands Learned
+
+git --version
+
+git init
+
+git add .
+
+git commit -m "message"
+
+git push
+
+## Practical Work Completed
+
+* Installed Git
+* Verified Git installation
+* Created a local repository
+* Connected local repository to GitHub
+* Pushed code to GitHub
+
