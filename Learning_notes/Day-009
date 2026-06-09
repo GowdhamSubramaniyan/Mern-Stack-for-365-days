@@ -1,0 +1,31 @@
+# Day 009
+
+## Learn
+
+- How a web page loads
+- Role of HTML
+- Role of CSS
+- Role of JavaScript
+
+## Key Concepts
+
+HTML = Structure
+
+CSS = Design
+
+JavaScript = Functionality
+
+## Practical Work
+
+- Added page title
+- Added main heading
+
+## Key Takeaways
+
+Browsers load HTML first, then CSS, then JavaScript.
+
+HTML gives structure.
+
+CSS adds design.
+
+JavaScript adds behavior.
