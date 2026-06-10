@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>About Me</title>
+</head>
+<body>
+
+    <h1>Gowdham Subramaniyan</h1>
+
+    <p>
+        I am an aspiring Full-Stack MERN Developer.
+        I am currently following a 365-day coding journey
+        to build strong software development skills.
+    </p>
+
+</body>
+</html>
