@@ -1,0 +1,23 @@
+# Day 010
+
+## Learn
+
+- What a browser does
+- DevTools overview
+
+## DevTools Tabs
+
+- Elements
+- Console
+- Network
+- Sources
+
+## Practical Work
+
+- Added an "About Me" paragraph
+
+## Key Takeaways
+
+Browsers load HTML, apply CSS, and execute JavaScript.
+
+DevTools help developers inspect and debug websites.
