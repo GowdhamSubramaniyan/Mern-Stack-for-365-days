@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>My Profile</title>
+</head>
+<body>
+
+    <h1>Gowdham Subramaniyan</h1>
+
+    <p>
+        I am learning web development and following a 365-day coding journey.
+    </p>
+
+    <img src="profile.jpg" alt="Profile Photo">
+
+</body>
+</html>
