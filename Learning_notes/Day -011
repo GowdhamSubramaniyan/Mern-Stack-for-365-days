@@ -1,0 +1,83 @@
+# Day 11 - Files, Folders & File Paths
+
+## 📚 Learning Objectives
+
+- Understand files and folders
+- Learn about file paths
+- Display images using HTML
+- Understand common meta tags
+
+## Concepts Learned
+
+### Files
+
+Examples:
+
+- index.html
+- style.css
+- script.js
+- profile.jpg
+- README.md
+
+### Folders
+
+Example:
+
+```text
+Day-011
+│
+├── index.html
+└── profile.jpg
+```
+
+### File Paths
+
+A file path tells the browser where a file is located.
+
+Example:
+
+```html
+<img src="profile.jpg" alt="Profile Photo">
+```
+
+Since `profile.jpg` and `index.html` are in the same folder, the browser can find the image.
+
+### Image Tag
+
+```html
+<img src="profile.jpg" alt="Profile Photo">
+```
+
+- `src` specifies the image location.
+- `alt` provides alternative text if the image cannot be displayed.
+
+### Meta Tags
+
+#### Character Encoding
+
+```html
+<meta charset="UTF-8">
+```
+
+Supports multiple languages and special characters.
+
+#### Viewport
+
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+Ensures websites display correctly on phones and tablets.
+
+## Practical Work
+
+- Added a profile image to my webpage.
+- Learned how browsers locate files using paths.
+
+## Key Takeaways
+
+- Files store information.
+- Folders organize files.
+- File paths tell the browser where resources are located.
+- Images are displayed using the `<img>` tag.
+- Meta tags provide important information to the browser.
