@@ -1,0 +1,37 @@
+# Day 12 - Markdown Basics
+
+## 📚 Learning Objectives
+
+- Understand Markdown syntax
+- Learn headings and lists
+- Learn how GitHub README files are written
+
+## Markdown Examples
+
+### Heading
+
+```md
+# Heading
+```
+
+### List
+
+```md
+- Item 1
+- Item 2
+```
+
+### Bold Text
+
+```md
+**Bold Text**
+```
+
+## Practical Work
+
+- Added a list of interests
+- Added a list of skills I am learning
+
+## Key Takeaways
+
+Markdown is used to write README files and documentation on GitHub.
