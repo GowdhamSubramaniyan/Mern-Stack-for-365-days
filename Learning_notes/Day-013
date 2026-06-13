@@ -1,0 +1,82 @@
+# Day 13 - Git Basics and Links
+
+## 📚 Learning Objectives
+
+- Learned Git basics:
+  - git init
+  - git status
+  - git add
+  - git commit
+
+- Learned how to create hyperlinks using the anchor tag.
+
+## New HTML Tags
+
+### Anchor Tag
+
+```html
+<a href=""></a>
+```
+
+Used to create clickable links.
+
+### Line Break Tag
+
+```html
+<br>
+```
+
+Used to move content to the next line.
+
+## New Attributes Learned
+
+### href
+
+Specifies where the link should go.
+
+Example:
+
+```html
+<a href="https://github.com">
+    GitHub
+</a>
+```
+
+### target="_blank"
+
+Opens the link in a new browser tab.
+
+Example:
+
+```html
+<a href="https://linkedin.com" target="_blank">
+    LinkedIn
+</a>
+```
+
+### mailto
+
+Opens the user's email application.
+
+Example:
+
+```html
+<a href="mailto:gowdham.uk@icloud.com">
+    Email Me
+</a>
+```
+
+## Practical Work
+
+Built a "Contact Me" page containing:
+
+- Email link
+- LinkedIn link
+- GitHub link
+
+## Key Takeaways
+
+- Git helps track changes in projects.
+- Anchor tags create hyperlinks.
+- The br tag creates a line break.
+- target="_blank" opens links in a new tab.
