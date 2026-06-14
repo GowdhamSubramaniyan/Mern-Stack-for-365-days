@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+</head>
+<body>
+
+    <h1>Gowdham Subramaniyan</h1>
+
+    <h2>Contact Me</h2>
+
+    <a href="mailto:gowdham.uk@icloud.com">
+        Email Me
+    </a>
+
+    <br><br>
+
+    <a href="https://www.linkedin.com/in/gowdham-subramaniyan-0b1a3b1b6/" target="_blank">
+        LinkedIn
+    </a>
+
+    <br><br>
+
+    <a href="https://github.com/GowdhamSubramaniyan" target="_blank">
+        GitHub
+    </a>
+
+    <h2>What I'm Learning</h2>
+
+    <ul>
+
+        <li>HTML</li>
+
+        <li>CSS</li>
+
+        <li>Git & GitHub</li>
+
+        <li>JavaScript</li>
+
+    </ul>
+
+</body>
+</html>
