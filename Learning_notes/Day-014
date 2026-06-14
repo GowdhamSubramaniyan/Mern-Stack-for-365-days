@@ -1,0 +1,89 @@
+# Day 14 - Good Commit Messages and Learning Section
+
+## 📚 Learning Objectives
+
+* Learned how to write good Git commit messages.
+* Added a second section to the webpage.
+* Learned how to create lists in HTML.
+
+## Git Concepts
+
+### Good Commit Messages
+
+Examples:
+
+```bash
+git commit -m "Added contact section"
+
+git commit -m "Added learning section"
+
+git commit -m "Updated profile page"
+```
+
+Good commit messages clearly describe what changed.
+
+## New HTML Tags
+
+### h2 Tag
+
+```html
+<h2></h2>
+```
+
+Used to create section headings.
+
+### ul Tag
+
+```html
+<ul>
+</ul>
+```
+
+Creates an unordered list.
+
+### li Tag
+
+```html
+<li></li>
+```
+
+Creates a list item.
+
+Example:
+
+```html
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Git & GitHub</li>
+    <li>JavaScript</li>
+</ul>
+```
+
+Output:
+
+* HTML
+* CSS
+* Git & GitHub
+* JavaScript
+
+## Practical Work
+
+Added a new section called:
+
+### What I'm Learning
+
+Skills listed:
+
+* HTML
+* CSS
+* Git & GitHub
+* JavaScript
+
+## Key Takeaways
+
+* Good commit messages explain what changed.
+* h2 tags create sections.
+* ul creates a list.
+* li creates individual list items.
+* Multiple sections make webpages more organized.
