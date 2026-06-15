@@ -1,0 +1,72 @@
+# Day 15 - Connecting Git to GitHub
+
+## 📚 Learning Objectives
+
+* Learned how to connect a local repository to GitHub.
+* Learned how git push uploads code to a remote repository.
+* Learned the Git workflow.
+
+## Git Commands Learned
+
+### Change Directory
+
+```bash
+cd
+```
+
+Used to move between folders.
+
+### Stage Changes
+
+```bash
+git add .
+```
+
+Used to add all modified files to the staging area.
+
+### Create a Commit
+
+```bash
+git commit -m "message"
+```
+
+Used to save a snapshot of the project.
+
+### Push to GitHub
+
+```bash
+git push
+```
+
+Used to upload commits to GitHub.
+
+## Git Workflow
+
+```text
+Write Code
+    ↓
+git add .
+    ↓
+git commit
+    ↓
+git push
+    ↓
+GitHub
+```
+
+## Practical Work
+
+* Created a writing folder.
+* Wrote an article titled:
+
+"Why I'm Learning to Code Every Single Day for a Year"
+
+* Added the article to the repository.
+* Learned how local code is uploaded to GitHub.
+
+## Key Takeaways
+
+* Git tracks changes locally.
+* GitHub stores repositories remotely.
+* git push uploads commits to GitHub.
+* Consistency is more important than speed.
