@@ -1,0 +1,59 @@
+# Day 16 - Introduction to CSS and Git Clone/Pull
+
+## 📚 Learning Objectives
+
+* Learned git clone.
+* Learned git pull.
+* Learned the basic Git workflow.
+* Learned how to use the style tag.
+* Learned how to change fonts using CSS.
+
+## Git Commands
+
+### Clone Repository
+
+```bash
+git clone <repository-url>
+```
+
+Downloads a repository from GitHub.
+
+### Pull Changes
+
+```bash
+git pull
+```
+
+Downloads the latest changes from GitHub.
+
+## New HTML Tag
+
+```html
+<style>
+</style>
+```
+
+Used to write CSS inside HTML.
+
+## First CSS Property
+
+```css
+body {
+    font-family: Arial, sans-serif;
+}
+```
+
+Changes the font of the webpage.
+
+## Practical Work
+
+* Added a style block.
+* Changed the font of the webpage.
+
+## Key Takeaways
+
+* CSS controls appearance.
+* The style tag allows CSS inside HTML.
+* font-family changes text style.
+* git clone downloads repositories.
+* git pull updates repositories.
