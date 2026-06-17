@@ -1,0 +1,72 @@
+# Day 17 - HTML Basics and Colors
+
+## 📚 Learning Objectives
+
+* Learned what HTML is.
+* Learned the difference between tags and elements.
+* Learned how to add colors using CSS.
+
+## HTML Concepts
+
+### Tag
+
+Example:
+
+```html
+<h1>
+```
+
+Tags tell the browser what something is.
+
+### Element
+
+Example:
+
+```html
+<h1>Gowdham</h1>
+```
+
+An element consists of:
+
+* Opening tag
+* Content
+* Closing tag
+
+## New CSS Properties
+
+### Background Color
+
+```css
+background-color: lightgray;
+```
+
+Changes the page background color.
+
+### Text Color
+
+```css
+color: black;
+```
+
+Changes the text color.
+
+### Font Family
+
+```css
+font-family: Arial, sans-serif;
+```
+
+Changes the font style.
+
+## Practical Work
+
+* Added a background color.
+* Added a text color.
+* Changed the font style.
+
+## Key Takeaways
+
+* HTML provides structure.
+* Tags create elements.
+* CSS controls appearance.
+* Colors improve the visual design of webpages.
