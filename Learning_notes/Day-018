@@ -1,0 +1,74 @@
+# Day 18 - HTML Structure and Spacing
+
+## 📚 Learning Objectives
+
+* Learned the structure of an HTML document.
+* Learned the difference between head and body.
+* Learned how to add spacing using margins.
+
+## HTML Structure
+
+```text
+html
+│
+├── head
+│
+└── body
+```
+
+### Head
+
+Contains information about the webpage.
+
+Examples:
+
+* title
+* meta
+* style
+
+### Body
+
+Contains visible content.
+
+Examples:
+
+* h1
+* p
+* a
+
+## New CSS Properties
+
+### Margin
+
+```css
+margin: 40px;
+```
+
+Adds space around elements.
+
+### Margin Top
+
+```css
+margin-top: 20px;
+```
+
+Adds space above an element.
+
+### Margin Bottom
+
+```css
+margin-bottom: 20px;
+```
+
+Adds space below an element.
+
+## Practical Work
+
+* Added spacing to the webpage.
+* Improved layout appearance.
+
+## Key Takeaways
+
+* head stores page information.
+* body stores visible content.
+* margin controls spacing and layout.
