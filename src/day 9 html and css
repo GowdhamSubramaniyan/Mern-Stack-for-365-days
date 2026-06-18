@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>My Profile</title>
+
+    <style>
+
+        body {
+            background-color: lightgray;
+            color: black;
+            font-family: Arial, sans-serif;
+
+            margin: 40px;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        p {
+            margin-top: 20px;
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <h1>Gowdham Subramaniyan</h1>
+
+    <p>
+        I am learning web development one day at a time.
+    </p>
+
+</body>
+</html>
