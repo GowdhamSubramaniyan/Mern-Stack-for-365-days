@@ -1,0 +1,28 @@
+# Day 19 - Headings, Paragraphs and Center Alignment
+
+## Learning Objectives
+
+- Learned heading tags.
+- Learned paragraph tags.
+- Learned how to center content using CSS.
+
+## HTML Tags
+
+### h1
+
+Used for the main heading.
+
+### h2
+
+Used for section headings.
+
+### p
+
+Used for paragraphs.
+
+## CSS Property
+
+### text-align
+
+```css
+text-align: center;
