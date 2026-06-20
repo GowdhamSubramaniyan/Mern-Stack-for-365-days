@@ -1,0 +1,60 @@
+# Day 20 - Anchor Tags and Hover Effects
+
+## 📚 Learning Objectives
+
+* Learned how anchor tags work.
+* Learned how to create links.
+* Learned how to add hover effects using CSS.
+
+## HTML Tags Learned
+
+### Anchor Tag
+
+```html
+<a></a>
+```
+
+Used to create hyperlinks.
+
+## Anchor Attributes
+
+### href
+
+Specifies where the link goes.
+
+Example:
+
+```html
+<a href="https://github.com">
+    GitHub
+</a>
+```
+
+### target="_blank"
+
+Opens the link in a new tab.
+
+## New CSS Concept
+
+### Hover
+
+```css
+a:hover{
+
+    color:red;
+
+}
+```
+
+Changes the color when the mouse moves over the link.
+
+## Practical Work
+
+* Created email, GitHub and LinkedIn links.
+* Added a hover effect.
+
+## Key Takeaways
+
+* Anchor tags create hyperlinks.
+* href specifies the destination.
+* Hover effects improve user experience.
