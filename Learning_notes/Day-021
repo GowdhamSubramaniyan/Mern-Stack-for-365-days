@@ -1,0 +1,97 @@
+# Day 21 - Lists and Good Commit Messages
+
+## 📚 Learning Objectives
+
+* Learned ordered lists.
+* Learned unordered lists.
+* Learned list items.
+* Learned how to write clear commit messages.
+
+## HTML Tags Learned
+
+### Unordered List
+
+```html
+<ul></ul>
+```
+
+Creates a bullet list.
+
+### Ordered List
+
+```html
+<ol></ol>
+```
+
+Creates a numbered list.
+
+### List Item
+
+```html
+<li></li>
+```
+
+Creates an item inside a list.
+
+## Examples
+
+### Unordered List
+
+```html
+<ul>
+
+    <li>HTML</li>
+
+    <li>CSS</li>
+
+</ul>
+```
+
+### Ordered List
+
+```html
+<ol>
+
+    <li>Study</li>
+
+    <li>Practice</li>
+
+</ol>
+```
+
+## Git Concepts
+
+Good commit messages describe what changed.
+
+### Good
+
+```bash
+git commit -m "Added learning technologies list"
+```
+
+```bash
+git commit -m "Created daily routine page"
+```
+
+### Bad
+
+```bash
+git commit -m "update"
+```
+
+```bash
+git commit -m "new"
+```
+
+## Practical Work
+
+* Created ordered lists.
+* Created unordered lists.
+* Practiced writing meaningful commit messages.
+
+## Key Takeaways
+
+* ul creates bullet lists.
+* ol creates numbered lists.
+* li creates list items.
+* Good commit messages explain what changed.
