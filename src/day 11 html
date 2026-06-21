@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hello</title>
+</head>
+<body>
+    <h1>im gowdham</h1>
+    <ul>
+        <li>html</li>
+        <li>css</li>
+        <li>javascript</li>
+    </ul>
+    <h2>my background </h2>
+    <ol>
+        <li>i am a student</li>
+        <li>i am learning web development</li>
+        <li>i am learning html,css,javascript</li>
+    </ol>
+</body>
+</html>
