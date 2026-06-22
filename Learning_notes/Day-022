@@ -1,0 +1,75 @@
+# Day 22 - Images and DevTools
+
+## 📚 Learning Objectives
+
+* Learned how to display images.
+* Learned the src attribute.
+* Learned the alt attribute.
+* Learned how to inspect pages using DevTools.
+
+## HTML Tag Learned
+
+### Image Tag
+
+```html
+<img>
+```
+
+Displays images.
+
+## Image Attributes
+
+### src
+
+Specifies the image location.
+
+Example:
+
+```html
+<img src="profile.jpg">
+```
+
+### alt
+
+Alternative text shown if the image fails to load.
+
+Example:
+
+```html
+alt="Profile Photo"
+```
+
+## CSS Properties
+
+### width
+
+```css
+width:200px;
+```
+
+Controls image size.
+
+### border-radius
+
+```css
+border-radius:20px;
+```
+
+Creates rounded corners.
+
+## DevTools
+
+Opened the browser inspector and experimented with image properties.
+
+## Practical Work
+
+* Added a profile image.
+* Styled the image.
+* Used DevTools to test changes.
+
+## Key Takeaways
+
+* img displays images.
+* src tells the browser where the image is.
+* alt improves accessibility.
+* DevTools help inspect and test webpages.
