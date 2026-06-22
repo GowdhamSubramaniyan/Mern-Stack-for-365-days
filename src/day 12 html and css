@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>My Profile</title>
+
+    <link rel="stylesheet"
+          href="style.css">
+
+</head>
+<body>
+
+    <h1>Gowdham Subramaniyan</h1>
+
+    <img src="profile.jpg"
+         alt="Profile Photo">
+
+    <p>
+        I am learning web development every day.
+    </p>
+
+</body>
+</html>
