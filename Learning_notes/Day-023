@@ -1,0 +1,47 @@
+# Day 23 - Style Tag and GitHub Pages
+
+## 📚 Learning Objectives
+
+* Learned how to use the style tag.
+* Learned how CSS can be written inside HTML.
+* Learned how to publish a website using GitHub Pages.
+
+## HTML Tag Learned
+
+### Style Tag
+
+```html
+<style>
+</style>
+```
+
+Used to write CSS inside an HTML document.
+
+## CSS Examples
+
+```css
+body{
+    background-color: lightgray;
+}
+
+h1{
+    color: blue;
+}
+```
+
+## GitHub Pages
+
+GitHub Pages allows a static website to be hosted directly from a GitHub repository.
+
+## Practical Work
+
+* Added a style tag.
+* Styled a webpage.
+* Enabled GitHub Pages.
+* Published the website online.
+
+## Key Takeaways
+
+* CSS controls appearance.
+* The style tag contains CSS rules.
+* GitHub Pages can host static websites for free.
