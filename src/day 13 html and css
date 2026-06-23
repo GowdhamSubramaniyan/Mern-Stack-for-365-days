@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>My Profile</title>
+
+    <style>
+
+        body{
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: lightgray;
+        }
+
+        h1{
+            color: blue;
+        }
+
+    </style>
+
+</head>
+<body>
+
+    <h1>Gowdham Subramaniyan</h1>
+
+    <p>Learning MERN Stack one day at a time.</p>
+
+</body>
+</html>
