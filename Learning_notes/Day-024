@@ -1,0 +1,45 @@
+# Day 24 - DevTools and Testing a Live Website
+
+## 📚 Learning Objectives
+
+* Learned how to open DevTools.
+* Learned how to inspect HTML elements.
+* Learned how to inspect CSS rules.
+* Tested a live website.
+
+## DevTools
+
+### Open DevTools
+
+Press:
+
+F12
+
+or
+
+Right Click → Inspect
+
+## Important Tabs
+
+### Elements
+
+Used to inspect HTML.
+
+### Styles
+
+Used to inspect CSS.
+
+## Practical Work
+
+* Opened my GitHub Pages website.
+* Inspected HTML elements.
+* Inspected CSS styles.
+* Tested changes in DevTools.
+* Fixed issues on my live page.
+
+## Key Takeaways
+
+* DevTools help identify bugs.
+* HTML and CSS can be inspected directly in the browser.
+* Testing before editing saves time.
+* Always verify a website after deployment.
