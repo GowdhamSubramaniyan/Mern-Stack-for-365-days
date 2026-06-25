@@ -1,0 +1,35 @@
+# Day 25 - GitHub Pages and Live Website
+
+## 📚 Learning Objectives
+
+* Learned what GitHub Pages is.
+* Learned how websites can be hosted for free.
+* Learned how to share a live website.
+
+## GitHub Pages
+
+GitHub Pages is a free hosting service provided by GitHub.
+
+It allows static websites to be published directly from a repository.
+
+## Website Deployment Flow
+
+VS Code
+↓
+GitHub Repository
+↓
+GitHub Pages
+↓
+Live Website
+
+## Practical Work
+
+* Opened GitHub Pages settings.
+* Located the live website URL.
+* Added the live website link to README.md.
+
+## Key Takeaways
+
+* GitHub Pages provides free hosting.
+* A repository can be converted into a live website.
+* README files should include a live demo link.
