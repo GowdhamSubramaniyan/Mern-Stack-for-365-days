@@ -1,0 +1,32 @@
+# Day 26 - What Deployment Means
+
+##  Learning Objectives
+
+- Learned what deployment means.
+- Understood how GitHub Pages publishes websites.
+- Learned why proofreading is important before publishing.
+
+## What is Deployment?
+
+Deployment is the process of publishing a website from a local computer to the internet so other people can access it.
+
+## Deployment Flow
+
+VS Code
+↓
+GitHub Repository
+↓
+GitHub Pages
+↓
+Live Website
+
+## Practical Work
+
+- Reviewed all website text.
+- Corrected spelling and capitalization.
+- Checked headings, buttons, and links.
+
+## Key Takeaways
+
+- Deployment makes a website publicly available.
+- Proofreading improves professionalism and user experience.
