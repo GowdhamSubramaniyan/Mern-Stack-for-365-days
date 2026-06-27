@@ -1,0 +1,33 @@
+# Day 27 - README and Favicon
+
+## Learning Objectives
+
+* Learned the purpose of a README file.
+* Learned how to organize project information.
+* Learned what a favicon is.
+* Added a favicon to a webpage.
+
+## README
+
+A README is the introduction to a project. It explains what the project does, the technologies used, and how to run it.
+
+## Favicon
+
+A favicon is the small icon displayed in the browser tab.
+
+Example:
+
+```html
+<link rel="icon" type="image/png" href="favicon.png">
+```
+
+## Practical Work
+
+* Reviewed and improved my README.
+* Added a favicon to my project.
+* Verified the favicon appeared in the browser.
+
+## Key Takeaways
+
+* A good README helps others understand your project.
+* A favicon makes a website look more professional.
