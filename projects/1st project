@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>30 Days of Coding</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>🎉 My First 30 Days of Coding</h1>
+
+    <p>
+        Today I completed my first 30 days of learning web development.
+    </p>
+
+    <h2>Skills I Learned</h2>
+
+    <ul>
+        <li>HTML Basics</li>
+        <li>CSS Basics</li>
+        <li>Git & GitHub</li>
+        <li>GitHub Pages</li>
+        <li>README Files</li>
+    </ul>
+
+    <h2>My Goal</h2>
+
+    <p>
+        Complete 365 days of coding and become a Full-Stack MERN Developer.
+    </p>
+
+</div>
+
+</body>
+</html>
