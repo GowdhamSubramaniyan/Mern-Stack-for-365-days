@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Classes and IDs</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header id="header">
+
+    <h1 id="logo">UniTalks</h1>
+
+    <nav>
+
+        <a class="nav-link" href="#">Home</a>
+
+        <a class="nav-link" href="#">About</a>
+
+        <a class="nav-link" href="#">Projects</a>
+
+        <a class="nav-link" href="#">Contact</a>
+
+    </nav>
+
+</header>
+
+<main>
+
+    <h2 class="section-title">Welcome</h2>
+
+    <p>
+        Today I learned Classes and IDs in HTML and CSS.
+    </p>
+
+</main>
+
+<footer>
+
+    <p>
+        © 2026 Gowdham Subramaniyan
+    </p>
+
+</footer>
+
+</body>
+
+</html>
