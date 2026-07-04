@@ -1,0 +1,48 @@
+# Day 34 - CSS Selectors and Hero Section
+
+## Learning Objectives
+
+- Learned how CSS selectors work.
+- Learned the difference between selectors and properties.
+- Built my first Hero Section.
+
+## CSS Syntax
+
+```css
+selector{
+    property:value;
+}
+```
+
+## Types of Selectors
+
+### Element Selector
+
+```css
+h1{}
+```
+
+### Class Selector
+
+```css
+.hero{}
+```
+
+### ID Selector
+
+```css
+#logo{}
+```
+
+## Practical Work
+
+- Created a navigation bar.
+- Built a Hero Section.
+- Added a heading, paragraph, and button.
+- Styled the page using CSS.
+
+## Key Takeaways
+
+- Selectors choose HTML elements.
+- Properties change how elements look.
+- Hero Sections are the first impression of a website.
