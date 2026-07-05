@@ -1,0 +1,31 @@
+# Day 35 - External Stylesheets and About Section
+
+## Learning Objectives
+
+- Learned how to link an external CSS file.
+- Built an About section.
+- Continued building my portfolio website.
+
+## New Concept
+
+### External Stylesheet
+
+Instead of writing CSS inside HTML, we create a separate file.
+
+Example:
+
+```html
+<link rel="stylesheet" href="style.css">
+```
+
+## Practical Work
+
+- Linked style.css with index.html.
+- Added an About section.
+- Styled the About section using CSS.
+
+## Key Takeaways
+
+- HTML contains the content.
+- CSS controls the appearance.
+- Keeping CSS in a separate file makes projects easier to maintain.
