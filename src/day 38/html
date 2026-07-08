@@ -1,0 +1,25 @@
+<footer>
+
+    <h3>Gowdham Subramaniyan</h3>
+
+    <p>
+        Full Stack Web Developer | 365 Days Coding Journey
+    </p>
+
+    <div class="footer-links">
+
+        <a href="#">Home</a>
+
+        <a href="#">Projects</a>
+
+        <a href="#">Contact</a>
+
+    </div>
+
+    <p class="copyright">
+
+        © 2026 Gowdham Subramaniyan
+
+    </p>
+
+</footer>
