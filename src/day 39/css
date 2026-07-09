@@ -1,0 +1,116 @@
+/* Base Styles */
+
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f5f5f5;
+    color:#333;
+}
+
+/* Navigation */
+
+nav{
+    background:#3f51b5;
+    text-align:center;
+    padding:20px;
+}
+
+.logo{
+    color:white;
+}
+
+nav a{
+
+    display:inline-block;
+
+    color:white;
+
+    text-decoration:none;
+
+    margin:10px;
+
+    padding:10px 15px;
+
+}
+
+nav a:hover{
+
+    background:white;
+
+    color:#3f51b5;
+
+    border-radius:5px;
+
+}
+
+/* Hero */
+
+.hero{
+
+    text-align:center;
+
+    padding:100px 20px;
+
+}
+
+.hero h1{
+
+    display:block;
+
+    font-size:3rem;
+
+    color:#3f51b5;
+
+}
+
+.hero p{
+
+    width:60%;
+
+    margin:20px auto;
+
+    line-height:1.8;
+
+}
+
+/* Button */
+
+.btn{
+
+    display:inline-block;
+
+    background:#3f51b5;
+
+    color:white;
+
+    padding:15px 30px;
+
+    text-decoration:none;
+
+    border-radius:5px;
+
+    margin-top:20px;
+
+}
+
+.btn:hover{
+
+    background:#283593;
+
+}
+
+/* Footer */
+
+footer{
+
+    margin-top:80px;
+
+    background:#3f51b5;
+
+    color:white;
+
+    text-align:center;
+
+    padding:30px;
+
+}
