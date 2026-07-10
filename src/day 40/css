@@ -1,0 +1,156 @@
+
+/* Base Styles */
+
+body{
+
+    margin:0;
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:#f4f6f8;
+
+    color:#333;
+
+}
+
+/* Navigation */
+
+nav{
+
+    background:#1e3a8a;
+
+    padding:20px;
+
+    text-align:center;
+
+}
+
+.logo{
+
+    color:white;
+
+    font-size:2rem;
+
+}
+
+nav a{
+
+    color:white;
+
+    text-decoration:none;
+
+    margin:15px;
+
+    font-weight:bold;
+
+}
+
+nav a:hover{
+
+    color:#ffd700;
+
+}
+
+/* Hero */
+
+.hero{
+
+    text-align:center;
+
+    padding:100px 20px;
+
+}
+
+/* Tag Selector */
+
+h1{
+
+    color:red;
+
+}
+
+/* Class Selector */
+
+.hero-text{
+
+    color:#555;
+
+    font-size:1.2rem;
+
+    line-height:1.8;
+
+}
+
+/* ID Selector */
+
+#main-heading{
+
+    color:#1e3a8a;
+
+    font-size:3rem;
+
+}
+
+/* Button */
+
+.btn{
+
+    display:inline-block;
+
+    margin-top:20px;
+
+    padding:15px 30px;
+
+    background:#1e3a8a;
+
+    color:white;
+
+    text-decoration:none;
+
+    border-radius:5px;
+
+}
+
+.btn:hover{
+
+    background:#142b63;
+
+}
+
+/* About */
+
+.about{
+
+    width:80%;
+
+    margin:50px auto;
+
+    background:white;
+
+    padding:40px;
+
+    border-radius:10px;
+
+}
+
+.about h2{
+
+    color:#1e3a8a;
+
+}
+
+/* Footer */
+
+footer{
+
+    background:#1e3a8a;
+
+    color:white;
+
+    text-align:center;
+
+    padding:30px;
+
+    margin-top:50px;
+
+}
