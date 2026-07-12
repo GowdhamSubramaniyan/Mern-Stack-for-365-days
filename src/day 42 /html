@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+    <div class="navbar">
+
+        <h2 class="logo">Gowdham</h2>
+
+        <nav>
+
+            <a href="#">Home</a>
+
+            <a href="#">About</a>
+
+            <a href="#">Projects</a>
+
+            <a href="#">Contact</a>
+
+        </nav>
+
+    </div>
+
+</header>
+
+<section class="hero">
+
+    <h1>Hi, I'm Gowdham</h1>
+
+    <p>
+        Learning Full Stack Development through my 365-day coding journey.
+    </p>
+
+    <a href="#" class="btn">
+
+        View Projects
+
+    </a>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 Gowdham Subramaniyan
+
+</p>
+
+</footer>
+
+</body>
+</html>
