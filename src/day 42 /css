@@ -1,0 +1,143 @@
+/* Reset */
+
+body{
+
+    margin:0;
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:#f4f6f8;
+
+}
+
+/* Header */
+
+header{
+
+    background:#1e3a8a;
+
+    padding:20px 50px;
+
+}
+
+/* Flex Container */
+
+.navbar{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+}
+
+/* Logo */
+
+.logo{
+
+    color:white;
+
+    margin:0;
+
+}
+
+/* Navigation */
+
+nav{
+
+    display:flex;
+
+    gap:20px;
+
+}
+
+nav a{
+
+    color:white;
+
+    text-decoration:none;
+
+    font-weight:bold;
+
+    padding:10px 15px;
+
+    border-radius:6px;
+
+}
+
+nav a:hover{
+
+    background:white;
+
+    color:#1e3a8a;
+
+}
+
+/* Hero */
+
+.hero{
+
+    text-align:center;
+
+    padding:100px 20px;
+
+}
+
+.hero h1{
+
+    color:#1e3a8a;
+
+    font-size:3rem;
+
+}
+
+.hero p{
+
+    width:60%;
+
+    margin:20px auto;
+
+    line-height:1.8;
+
+}
+
+/* Button */
+
+.btn{
+
+    display:inline-block;
+
+    background:#1e3a8a;
+
+    color:white;
+
+    text-decoration:none;
+
+    padding:15px 30px;
+
+    border-radius:8px;
+
+}
+
+.btn:hover{
+
+    background:#2563eb;
+
+}
+
+/* Footer */
+
+footer{
+
+    margin-top:80px;
+
+    background:#1e3a8a;
+
+    color:white;
+
+    text-align:center;
+
+    padding:30px;
+
+}
