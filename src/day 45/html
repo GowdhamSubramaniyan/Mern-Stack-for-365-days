@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Projects</title>
+
+    <!-- Make sure the filename matches exactly -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<section class="projects">
+
+    <h2>My Projects</h2>
+
+    <div class="projects-grid">
+
+        <div class="card">
+            <h3>Student Login</h3>
+            <p>Responsive login page using HTML & CSS.</p>
+        </div>
+
+        <div class="card">
+            <h3>Portfolio</h3>
+            <p>My personal developer portfolio website.</p>
+        </div>
+
+        <div class="card">
+            <h3>UniTalks</h3>
+            <p>University social platform UI.</p>
+        </div>
+
+        <div class="card">
+            <h3>Landing Page</h3>
+            <p>Modern landing page design.</p>
+        </div>
+
+        <div class="card">
+            <h3>Calculator</h3>
+            <p>Simple calculator interface.</p>
+        </div>
+
+        <div class="card">
+            <h3>Dashboard</h3>
+            <p>Admin dashboard layout.</p>
+        </div>
+
+    </div>
+
+</section>
+
+</body>
+</html>
