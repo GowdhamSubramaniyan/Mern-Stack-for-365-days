@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Day 46 Contact Form</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#f5f5f5;
+}
+
+.contact{
+    width:80%;
+    max-width:700px;
+    margin:60px auto;
+    background:white;
+    padding:40px;
+    border-radius:10px;
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
+}
+
+.contact h2{
+    text-align:center;
+    color:#1e3a8a;
+    margin-bottom:30px;
+}
+
+.contact-form{
+    display:grid;
+    grid-template-columns:1fr;
+    gap:20px;
+}
+
+.contact-form input,
+.contact-form textarea{
+
+    width:100%;
+    padding:15px;
+    border:1px solid #ccc;
+    border-radius:8px;
+    font-size:16px;
+}
+
+.contact-form button{
+
+    background:#1e3a8a;
+    color:white;
+    border:none;
+    padding:15px;
+    border-radius:8px;
+    font-size:16px;
+    cursor:pointer;
+}
+
+.contact-form button:hover{
+
+    background:#2563eb;
+}
+
+</style>
+
+</head>
+<body>
+
+<section class="contact">
+
+<h2>Contact Me</h2>
+
+<form class="contact-form">
+
+<input type="text" placeholder="Your Name">
+
+<input type="email" placeholder="Your Email">
+
+<textarea rows="6" placeholder="Your Message"></textarea>
+
+<button type="submit">
+Send Message
+</button>
+
+</form>
+
+</section>
+
+</body>
+</html>
