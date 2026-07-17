@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 47 - CSS Positioning</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+
+    <h1>My Portfolio</h1>
+
+    <nav>
+
+        <a href="#">Home</a>
+        <a href="#">Projects</a>
+        <a href="#">Contact</a>
+
+    </nav>
+
+</header>
+
+<section class="hero">
+
+    <h2>Hello, I'm Gowdham</h2>
+
+    <p>Learning HTML & CSS one day at a time.</p>
+
+    <button class="btn">Contact Me</button>
+
+</section>
+
+<section class="projects">
+
+    <h2>My Projects</h2>
+
+    <div class="project-grid">
+
+        <div class="card">
+
+            <span class="badge">NEW</span>
+
+            <h3>Portfolio Website</h3>
+
+            <p>Responsive portfolio built with HTML and CSS.</p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Student Login Page</h3>
+
+            <p>Simple login interface using Flexbox.</p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Contact Form</h3>
+
+            <p>Styled contact form using CSS Grid.</p>
+
+        </div>
+
+    </div>
+
+</section>
+
+</body>
+</html>
