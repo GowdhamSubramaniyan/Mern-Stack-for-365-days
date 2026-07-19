@@ -1,0 +1,351 @@
+/* ===========================
+   CSS VARIABLES
+=========================== */
+
+:root{
+
+    --primary:#1e3a8a;
+
+    --secondary:#2563eb;
+
+    --background:#f5f5f5;
+
+    --white:#ffffff;
+
+    --text:#333333;
+
+}
+
+/* ===========================
+   RESET
+=========================== */
+
+*{
+
+    margin:0;
+
+    padding:0;
+
+    box-sizing:border-box;
+
+}
+
+/* ===========================
+   BODY
+=========================== */
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:var(--background);
+
+    color:var(--text);
+
+}
+
+/* ===========================
+   HEADER
+=========================== */
+
+header{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:20px 60px;
+
+    background:var(--primary);
+
+}
+
+header h1{
+
+    color:white;
+
+}
+
+nav{
+
+    display:flex;
+
+    gap:20px;
+
+}
+
+nav a{
+
+    color:white;
+
+    text-decoration:none;
+
+    transition:color .3s ease;
+
+}
+
+nav a:hover{
+
+    color:#dddddd;
+
+}
+
+/* ===========================
+   HERO
+=========================== */
+
+.hero{
+
+    text-align:center;
+
+    padding:80px 20px;
+
+}
+
+.hero h2{
+
+    font-size:40px;
+
+    margin-bottom:20px;
+
+}
+
+.hero p{
+
+    margin-bottom:30px;
+
+}
+
+/* ===========================
+   BUTTON
+=========================== */
+
+.btn{
+
+    background:var(--primary);
+
+    color:white;
+
+    border:none;
+
+    padding:15px 30px;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+    transition:all .3s ease;
+
+}
+
+.btn:hover{
+
+    background:var(--secondary);
+
+    transform:translateY(-4px);
+
+}
+
+/* ===========================
+   PROJECTS
+=========================== */
+
+.projects{
+
+    width:90%;
+
+    margin:60px auto;
+
+}
+
+.projects h2{
+
+    text-align:center;
+
+    margin-bottom:40px;
+
+}
+
+.project-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:30px;
+
+}
+
+/* ===========================
+   CARD
+=========================== */
+
+.card{
+
+    background:white;
+
+    padding:30px;
+
+    border-radius:10px;
+
+    box-shadow:0 5px 15px rgba(0,0,0,.15);
+
+    position:relative;
+
+    transition:all .3s ease;
+
+}
+
+.card:hover{
+
+    transform:translateY(-8px);
+
+}
+
+.card h3{
+
+    margin-bottom:15px;
+
+}
+
+/* ===========================
+   BADGE
+=========================== */
+
+.badge{
+
+    position:absolute;
+
+    top:15px;
+
+    right:15px;
+
+    background:red;
+
+    color:white;
+
+    padding:5px 10px;
+
+    border-radius:20px;
+
+    font-size:12px;
+
+}
+
+/* ===========================
+   CONTACT
+=========================== */
+
+.contact{
+
+    width:90%;
+
+    max-width:700px;
+
+    margin:80px auto;
+
+}
+
+.contact h2{
+
+    text-align:center;
+
+    margin-bottom:30px;
+
+}
+
+.contact-form{
+
+    display:grid;
+
+    grid-template-columns:1fr;
+
+    gap:20px;
+
+}
+
+.contact-form input,
+
+.contact-form textarea{
+
+    padding:15px;
+
+    border:1px solid #ccc;
+
+    border-radius:8px;
+
+    font-size:16px;
+
+}
+
+.contact-form input:focus,
+
+.contact-form textarea:focus{
+
+    border:2px solid var(--primary);
+
+    outline:none;
+
+}
+
+/* ===========================
+   FOOTER
+=========================== */
+
+footer{
+
+    text-align:center;
+
+    padding:30px;
+
+    background:var(--primary);
+
+    color:white;
+
+    margin-top:60px;
+
+}
+
+/* ===========================
+   MEDIA QUERY
+=========================== */
+
+@media(max-width:768px){
+
+header{
+
+    flex-direction:column;
+
+    gap:20px;
+
+}
+
+nav{
+
+    flex-direction:column;
+
+    align-items:center;
+
+}
+
+.hero h2{
+
+    font-size:32px;
+
+}
+
+.project-grid{
+
+    grid-template-columns:1fr;
+
+}
+
+.contact{
+
+    width:95%;
+
+}
+
+}
