@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+    <h1>My Portfolio</h1>
+
+    <nav>
+
+        <a href="#">Home</a>
+        <a href="#">Projects</a>
+        <a href="#">Contact</a>
+
+    </nav>
+
+</header>
+
+<section class="hero">
+
+    <h2>Hello, I'm Gowdham</h2>
+
+    <p>
+        I'm learning Full Stack Development and building projects every day.
+    </p>
+
+    <button class="btn">
+        Contact Me
+    </button>
+
+</section>
+
+<section class="projects">
+
+    <h2>Projects</h2>
+
+    <div class="project-grid">
+
+        <div class="card">
+
+            <span class="badge">
+                NEW
+            </span>
+
+            <h3>Portfolio</h3>
+
+            <p>
+                Responsive portfolio website.
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Login Page</h3>
+
+            <p>
+                Student login UI using Flexbox.
+            </p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Contact Form</h3>
+
+            <p>
+                Responsive contact form.
+            </p>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="contact">
+
+    <h2>Contact Me</h2>
+
+    <form class="contact-form">
+
+        <input
+            type="text"
+            placeholder="Your Name"
+        >
+
+        <input
+            type="email"
+            placeholder="Your Email"
+        >
+
+        <textarea
+            rows="5"
+            placeholder="Your Message">
+        </textarea>
+
+        <button class="btn">
+            Send Message
+        </button>
+
+    </form>
+
+</section>
+
+<footer>
+
+    <p>
+        © 2026 Gowdham
+    </p>
+
+</footer>
+
+</body>
+</html>
