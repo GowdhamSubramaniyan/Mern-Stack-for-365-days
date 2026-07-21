@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 51 - CSS Variables</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+
+    <h1>My Portfolio</h1>
+
+    <nav>
+
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Projects</a>
+        <a href="#">Contact</a>
+
+    </nav>
+
+</header>
+
+<section class="hero">
+
+    <h2>Hello, I'm Gowdham</h2>
+
+    <p>
+        Learning HTML & CSS every day.
+    </p>
+
+    <button class="btn">
+        Hire Me
+    </button>
+
+</section>
+
+<section class="projects">
+
+    <h2>My Projects</h2>
+
+    <div class="project-grid">
+
+        <div class="card">
+
+            <h3>Portfolio Website</h3>
+
+            <p>Responsive website using HTML & CSS.</p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Landing Page</h3>
+
+            <p>Landing page with Flexbox.</p>
+
+        </div>
+
+        <div class="card">
+
+            <h3>Contact Form</h3>
+
+            <p>Simple contact page using Grid.</p>
+
+        </div>
+
+    </div>
+
+</section>
+
+<footer>
+
+    <p>© 2026 Gowdham</p>
+
+</footer>
+
+</body>
+</html>
