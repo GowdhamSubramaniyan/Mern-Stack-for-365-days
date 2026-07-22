@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For Someone Special ❤️</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <div class="card">
+
+        <div class="heart">
+            ❤️
+        </div>
+
+        <h1>Hello Beautiful ❤️</h1>
+
+        <p>
+            Every line of code I write reminds me that the best thing
+            I've ever found isn't in programming...
+            it's you.
+        </p>
+
+        <button>
+            Smile 😊
+        </button>
+
+    </div>
+
+</div>
+
+</body>
+</html>
