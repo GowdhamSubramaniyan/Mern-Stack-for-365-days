@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Day 53</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+<div class="container">
+
+<h1>Welcome to My Portfolio</h1>
+
+<p>
+Learning HTML & CSS every day.
+</p>
+
+<input
+type="text"
+placeholder="Enter your name">
+
+<button class="btn">
+
+Send
+
+</button>
+
+<ul>
+
+<li>HTML</li>
+
+<li>CSS</li>
+
+<li>JavaScript</li>
+
+</ul>
+
+<a href="#">Visit My GitHub</a>
+
+</div>
+
+</body>
+</html>
