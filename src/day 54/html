@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>Day 54</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="card">
+
+<img
+src="https://picsum.photos/150"
+alt="Random landscape image">
+
+<h1>Frontend Developer</h1>
+
+<p>
+
+Learning HTML & CSS every day.
+
+</p>
+
+<label for="email">
+
+Email Address
+
+</label>
+
+<input
+
+id="email"
+
+type="email"
+
+placeholder="Enter your email">
+
+<button class="btn">
+
+Join Now
+
+</button>
+
+<a href="https://www.gowshik.uk/">
+
+Visit Portfolio
+
+</a>
+
+</div>
+
+</body>
+
+</html>
