@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>Day 55</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<img
+src="https://picsum.photos/180"
+alt="Developer profile picture">
+
+<h1>Create Account</h1>
+
+<form>
+
+<label for="name">
+
+Full Name
+
+</label>
+
+<input
+id="name"
+type="text"
+placeholder="John Doe"
+required>
+
+<label for="email">
+
+Email Address
+
+</label>
+
+<input
+id="email"
+type="email"
+placeholder="john@example.com"
+required>
+
+<label for="password">
+
+Password
+
+</label>
+
+<input
+id="password"
+type="password"
+placeholder="********"
+required>
+
+<label for="message">
+
+About You
+
+</label>
+
+<textarea
+id="message"
+placeholder="Tell us about yourself..."
+rows="5"></textarea>
+
+<button type="submit">
+
+Create Account
+
+</button>
+
+</form>
+
+</div>
+
+</body>
+</html>
