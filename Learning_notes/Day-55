@@ -1,0 +1,70 @@
+# Day 55 - Forms & Image Optimisation
+
+## # Day 55 - Forms & Image Optimisation
+
+## HTML
+
+- form
+- label
+- input
+- textarea
+- button
+- placeholder
+- required
+- input types
+- rows
+- alt
+
+## CSS
+
+- Form styling
+- Input focus effects
+- Button styling
+- Hover effects
+- Responsive images
+- object-fit
+- max-width
+- height:auto
+
+## Image Optimisation
+
+- Resize images
+- Use WebP/AVIF
+- Add descriptive alt text
+- Make images responsive
+
+## Key Takeaway
+
+
+- form
+- label
+- input
+- textarea
+- button
+- placeholder
+- required
+- input types
+- rows
+- alt
+
+## CSS
+
+- Form styling
+- Input focus effects
+- Button styling
+- Hover effects
+- Responsive images
+- object-fit
+- max-width
+- height:auto
+
+## Image Optimisation
+
+- Resize images
+- Use WebP/AVIF
+- Add descriptive alt text
+- Make images responsive
+
+## Key Takeaway
+
+Forms are one of the core building blocks of web applications. By using semantic HTML, accessible labels, and well-styled inputs, you can create forms that are both user-friendly and professional. Image optimisation improves loading speed and overall website performance.
