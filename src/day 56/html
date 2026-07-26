@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+content="width=device-width, initial-scale=1.0">
+
+<title>Accessible Portfolio</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<main class="container">
+
+<img
+src="https://picsum.photos/180"
+alt="Profile picture of a frontend developer">
+
+<h1>John Smith</h1>
+
+<p>
+Frontend Developer passionate about accessible web design.
+</p>
+
+<form>
+
+<label for="email">
+
+Email Address
+
+</label>
+
+<input
+id="email"
+type="email"
+placeholder="john@example.com"
+required>
+
+<label for="message">
+
+Message
+
+</label>
+
+<textarea
+id="message"
+rows="5"
+placeholder="Write your message..."></textarea>
+
+<button type="submit">
+
+Send Message
+
+</button>
+
+</form>
+
+<a href="#">
+
+Visit GitHub
+
+</a>
+
+</main>
+
+</body>
+
+</html>
