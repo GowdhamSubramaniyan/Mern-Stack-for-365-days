@@ -1,0 +1,40 @@
+# Day 58 - Common Layout Patterns & Writing
+
+## Learned
+
+### Website Layout Patterns
+
+- Single-column layout
+  - Best for blogs, articles, and documentation websites.
+
+- Two-column layout
+  - Common for landing pages with text and images side by side.
+
+- Card grid layout
+  - Used for portfolios, product listings, services, and galleries.
+
+- Sidebar layout
+  - Common in dashboards, admin panels, and documentation sites.
+
+- Hero section
+  - The first section visitors see, containing a headline, description, and call-to-action.
+
+- Sticky footer
+  - Keeps the footer at the bottom of the page, even when there is little content.
+
+### Technical Writing
+
+- How to write a technical blog post.
+- The importance of documenting what you learn.
+- How writing strengthens understanding.
+- How technical articles help build a personal portfolio and online presence.
+
+### Personal Branding
+
+- Sharing projects publicly demonstrates your skills.
+- A GitHub repository and technical articles together create a strong developer portfolio.
+- Consistent learning and sharing help establish credibility over time.
+
+## Key Takeaway
+
+Most professional websites are built using a small number of reusable layout patterns. Once you understand these patterns, you can recreate many modern website designs more efficiently. Writing about your learning reinforces your knowledge while also building a public portfolio that showcases your growth as a developer.
