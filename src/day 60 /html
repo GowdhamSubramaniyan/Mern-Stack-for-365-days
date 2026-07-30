@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gowdham Subramaniyan | Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+<nav>
+
+<h2>Gowdham.</h2>
+
+<ul>
+
+<li><a href="#about">About</a></li>
+<li><a href="#skills">Skills</a></li>
+<li><a href="#projects">Projects</a></li>
+<li><a href="#contact">Contact</a></li>
+
+</ul>
+
+</nav>
+
+<section class="hero">
+
+<h1>Hello, I'm Gowdham</h1>
+
+<p>
+Biomedical Engineering Graduate
+learning MERN Stack one day at a time.
+</p>
+
+<a href="#projects" class="btn">
+View Projects
+</a>
+
+</section>
+
+</header>
+
+<main>
+
+<section id="about">
+
+<h2>About Me</h2>
+
+<p>
+
+I'm currently learning Full Stack Web Development through
+a 365-day coding challenge.
+I enjoy building modern websites and documenting my journey.
+
+</p>
+
+</section>
+
+<section id="skills">
+
+<h2>Skills</h2>
+
+<div class="skills">
+
+<div>HTML5</div>
+<div>CSS3</div>
+<div>Flexbox</div>
+<div>CSS Grid</div>
+<div>Responsive Design</div>
+<div>Git & GitHub</div>
+
+</div>
+
+</section>
+
+<section id="projects">
+
+<h2>Projects</h2>
+
+<div class="cards">
+
+<div class="card">
+
+<img src="assets/project1.png" alt="Project">
+
+<h3>Landing Page</h3>
+
+<p>
+Responsive landing page built using HTML and CSS.
+</p>
+
+</div>
+
+<div class="card">
+
+<img src="assets/project2.png" alt="Project">
+
+<h3>Responsive Form</h3>
+
+<p>
+Registration form with modern styling.
+</p>
+
+</div>
+
+<div class="card">
+
+<img src="assets/project3.png" alt="Project">
+
+<h3>CSS Grid Gallery</h3>
+
+<p>
+Gallery layout using CSS Grid.
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>Learning Journey</h2>
+
+<p>
+
+365 Days of MERN Stack
+
+Current Progress:
+Day 60 / 365
+
+</p>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Email: your@email.com</p>
+
+<p>GitHub:
+github.com/yourusername
+</p>
+
+</section>
+
+</main>
+
+<footer>
+
+<p>
+© 2026 Gowdham Subramaniyan
+</p>
+
+</footer>
+
+</body>
+
+</html>
