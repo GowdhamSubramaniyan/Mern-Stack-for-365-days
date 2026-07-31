@@ -1,0 +1,111 @@
+/* Reset */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+/* Body */
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:#0f172a;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    min-height:100vh;
+
+    color:white;
+
+}
+
+/* Container */
+
+.container{
+
+    width:400px;
+
+    background:#1e293b;
+
+    padding:40px;
+
+    border-radius:15px;
+
+    text-align:center;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.4);
+
+}
+
+/* Heading */
+
+h1{
+
+    margin-bottom:20px;
+
+}
+
+/* Paragraph */
+
+p{
+
+    line-height:1.7;
+
+    margin-bottom:25px;
+
+}
+
+/* Button */
+
+button{
+
+    padding:15px 35px;
+
+    background:#2563eb;
+
+    color:white;
+
+    border:none;
+
+    border-radius:8px;
+
+    cursor:pointer;
+
+    font-size:18px;
+
+    transition:.3s;
+
+}
+
+button:hover{
+
+    background:#1d4ed8;
+
+    transform:translateY(-4px);
+
+}
+
+button:active{
+
+    transform:scale(.96);
+
+}
+
+/* Output */
+
+#message{
+
+    margin-top:25px;
+
+    font-size:20px;
+
+    color:#22c55e;
+
+}
