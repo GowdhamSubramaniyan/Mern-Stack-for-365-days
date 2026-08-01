@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>console.log 62 </title>
+</head>
+<link rel="stylesheet" href="style.css">
+<body>
+    <h1>Day 61</h1>
+    <div class="container">
+            <p>Today I learned about the importance of debugging and how to effectively use console.log to track down issues in my code. It's a simple yet powerful tool that helps me understand what's happening in my programs.</p>
+        </div>
+        <button id ="btn">run java script </button>
+<script src="script.js"></script>
+
+</body>
+</html>
