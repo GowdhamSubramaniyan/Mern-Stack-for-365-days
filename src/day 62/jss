@@ -1,0 +1,8 @@
+console.log("hello");
+console.log("welcome to javascript");
+console.log("this is my day 62 of javascript learning ");
+const button=document.getElementById("btn");
+button.addEventListener("click", () => {
+    console.log("Button clicked!");
+    console.log("javascript is working correctly");
+});
