@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day 66 - Strings & Template Literals</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+<h1 id="title">
+Welcome
+</h1>
+
+<p id="description">
+Click the button to change this text.
+</p>
+
+<button id="btn">
+Show My Details
+</button>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
