@@ -1,0 +1,26 @@
+// Variables
+
+let name = "gowshik";
+let age = 19;
+let goal = "i want to become a full stack developer";
+
+// HTML Elements
+
+const button = document.getElementById("btn");
+const title = document.getElementById("title");
+const description = document.getElementById("description");
+
+// Button Click Event
+
+button.addEventListener("click", function(){
+
+    title.textContent = `Hello ${name}!`;
+
+    description.textContent =
+    `I am ${age} years old and my goal is to ${goal}.`;
+
+    console.log(`Hello ${name}`);
+    console.log(`Age: ${age}`);
+    console.log(`Goal: ${goal}`);
+
+});
