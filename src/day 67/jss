@@ -1,0 +1,43 @@
+// App Data
+
+let product = "AVANMODA Heritage T-Shirt";
+
+let price = 39;
+
+let quantity = 3;
+
+// Calculate
+
+let total = price * quantity;
+
+// HTML Elements
+
+const button = document.getElementById("btn");
+
+const output = document.getElementById("output");
+
+// Button Click
+
+button.addEventListener("click", function(){
+
+    console.log("Product:", product);
+
+    console.log("Price:", price);
+
+    console.log("Quantity:", quantity);
+
+    console.log("Total:", total);
+
+    output.innerHTML = `
+        <h2>Order Summary</h2>
+
+        <p><strong>Product:</strong> ${product}</p>
+
+        <p><strong>Price:</strong> £${price}</p>
+
+        <p><strong>Quantity:</strong> ${quantity}</p>
+
+        <p><strong>Total:</strong> £${total}</p>
+    `;
+
+});
