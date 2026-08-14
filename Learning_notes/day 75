@@ -1,0 +1,17 @@
+What I Learned Today
+
+Today I learned:
+
+What scope means in JavaScript
+Global scope
+Function scope
+Block scope
+How let works with scope
+How const works with scope
+Why variables inside functions cannot be accessed outside them
+Why variables inside blocks cannot be accessed outside those blocks
+How scope relates to the state variable from Day 74
+How nested scopes work
+Key takeaway
+
+Scope determines where a variable can be accessed.
