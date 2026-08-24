@@ -1,0 +1,110 @@
+/* =========================
+   RESET
+========================= */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* =========================
+   PAGE
+========================= */
+
+body {
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: Arial, sans-serif;
+
+  background: #f4f4f4;
+}
+
+
+/* =========================
+   CONTAINER
+========================= */
+
+.container {
+  text-align: center;
+}
+
+
+/* =========================
+   TEXT
+========================= */
+
+h1 {
+  margin-bottom: 10px;
+}
+
+p {
+  margin-bottom: 50px;
+  color: #666;
+}
+
+
+/* =========================
+   BOX
+========================= */
+
+.box {
+  width: 100px;
+  height: 100px;
+
+  margin: 0 auto 50px;
+
+  background: black;
+
+  border-radius: 15px;
+
+  /* Makes the animation smooth */
+  transition:
+    transform 0.6s ease,
+    border-radius 0.6s ease,
+    background-color 0.6s ease;
+}
+
+
+/* Animated state */
+
+.box.animate {
+  transform: translateY(-100px) rotate(180deg);
+
+  border-radius: 50%;
+
+  background-color: #444;
+}
+
+
+/* =========================
+   BUTTON
+========================= */
+
+button {
+  padding: 12px 24px;
+
+  border: none;
+  border-radius: 8px;
+
+  background: black;
+  color: white;
+
+  font-size: 16px;
+
+  cursor: pointer;
+
+  transition: opacity 0.2s ease;
+}
+
+
+/* Button hover */
+
+button:hover {
+  opacity: 0.8;
+}
