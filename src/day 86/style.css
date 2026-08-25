@@ -1,0 +1,155 @@
+/* =========================
+   RESET
+========================= */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* =========================
+   PAGE
+========================= */
+
+body {
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: Arial, sans-serif;
+
+  background: #f4f4f4;
+  color: #111;
+}
+
+
+/* =========================
+   CONTAINER
+========================= */
+
+.container {
+  width: min(90%, 500px);
+
+  text-align: center;
+}
+
+
+/* =========================
+   TEXT
+========================= */
+
+h1 {
+  margin-bottom: 10px;
+}
+
+p {
+  color: #555;
+}
+
+
+/* =========================
+   STATUS
+========================= */
+
+.status {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+
+/* =========================
+   BOX
+========================= */
+
+.box {
+  width: 100px;
+  height: 100px;
+
+  margin: 0 auto 40px;
+
+  background: black;
+
+  border-radius: 15px;
+
+  transition:
+    transform 0.6s ease,
+    border-radius 0.6s ease;
+}
+
+
+/* Animated state */
+
+.box.animate {
+  transform: translateY(-100px) rotate(180deg);
+
+  border-radius: 50%;
+}
+
+
+/* =========================
+   BUTTON
+========================= */
+
+button {
+  padding: 12px 24px;
+
+  border: none;
+  border-radius: 8px;
+
+  background: black;
+  color: white;
+
+  font-size: 16px;
+
+  cursor: pointer;
+}
+
+
+/* =========================
+   KEYBOARD FOCUS
+========================= */
+
+/*
+  Makes it obvious when
+  keyboard users focus the button.
+*/
+
+button:focus-visible {
+  outline: 3px solid #0066ff;
+  outline-offset: 4px;
+}
+
+
+/* =========================
+   HOVER
+========================= */
+
+button:hover {
+  opacity: 0.8;
+}
+
+
+/* =========================
+   REDUCED MOTION
+========================= */
+
+/*
+  Some users experience discomfort
+  from animations.
+*/
+
+@media (prefers-reduced-motion: reduce) {
+
+  .box {
+    transition: none;
+  }
+
+  .box.animate {
+    transform: none;
+    border-radius: 50%;
+  }
+}
