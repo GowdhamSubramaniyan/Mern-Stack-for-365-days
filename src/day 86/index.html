@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>Day 86 - Accessibility Pass</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <main class="container">
+
+    <h1>Day 86</h1>
+
+    <p>
+      Accessibility & Click Events
+    </p>
+
+    <!--
+      aria-live tells screen readers
+      when the status changes.
+    -->
+    <p
+      id="status"
+      class="status"
+      aria-live="polite"
+    >
+      Animation is inactive
+    </p>
+
+    <!-- Animated box -->
+    <div
+      id="box"
+      class="box"
+      aria-hidden="true"
+    ></div>
+
+    <!--
+      Use a real button instead of a div.
+      This automatically supports keyboard interaction.
+    -->
+    <button
+      id="animateBtn"
+      type="button"
+      aria-pressed="false"
+    >
+      Animate
+    </button>
+
+  </main>
+
+  <script src="script.js"></script>
+
+</body>
+
+</html>
