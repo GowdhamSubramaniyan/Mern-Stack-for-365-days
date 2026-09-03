@@ -380,46 +380,5 @@ Result:
 
 ---
 
-# ✍️ Practice
-
-Try these yourself before looking up the answer.
-
-### Exercise 1
-
-Find the total:
-
-```js
-const numbers = [5, 10, 15];
-```
-
-Expected result:
-
-```text
-30
-```
-
-### Exercise 2
-
-Find the total price:
-
-```js
-const prices = [12, 8, 20, 5];
-```
-
-Expected result:
-
-```text
-45
-```
-
-### Exercise 3
-
-Explain this in your own words:
-
-```js
-const result = numbers.reduce((accumulator, currentValue) => {
-  return accumulator + currentValue;
-}, 0);
-```
 
 If you can explain what `accumulator`, `currentValue`, and `0` mean, you've achieved today's learning goal.
