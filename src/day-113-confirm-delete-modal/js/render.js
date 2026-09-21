@@ -1,0 +1,1 @@
+export function renderUsers(users,userList){userList.innerHTML="";if(users.length===0){userList.innerHTML="<li>No users found.</li>";return;}users.forEach(user=>{const li=document.createElement("li");li.innerHTML=`<span>${user.name}</span><button class="delete-btn" data-id="${user.id}">Delete</button>`;userList.appendChild(li);});}
