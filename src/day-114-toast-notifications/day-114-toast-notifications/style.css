@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+button {
+  padding: 10px 16px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.toast-container {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.toast {
+  background: #222;
+  color: white;
+  padding: 12px 18px;
+  border-radius: 6px;
+  min-width: 220px;
+}
+
+.toast.error {
+  background: #b00020;
+}
